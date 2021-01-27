@@ -1,6 +1,6 @@
 #pragma once
 
-#define VENDOR_ID       0x594D
+#define VENDOR_ID       0x5941
 #define PRODUCT_ID      0x0001
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    VEA
