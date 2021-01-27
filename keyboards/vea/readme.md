@@ -1,4 +1,4 @@
-# VEA
+# VE.A
 
 * Keyboard Maintainer: [MechMerlin](https://github.com/mechmerlin)
 * Hardware Availability:
